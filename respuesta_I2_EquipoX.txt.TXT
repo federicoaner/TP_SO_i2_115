@@ -1,0 +1,2 @@
+a - git remote add upstream "LinkDelRepositorio para actualizar el repositorio y despues unos 3 comandos en orden que son: git fetch upstream, git checkout main y bit rebase upstream/main
+b - si, Alfa puede actualizarlo
